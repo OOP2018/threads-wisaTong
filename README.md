@@ -80,7 +80,7 @@ answer question 6
 
 6.1 The fasteset solution is AtomicCounter. The slowest solution is Synchronized method.
 
-6.2 The Lock solutions an be apllied to the broadest range of problem because we can define the scope of what is locked when the operation is ocurring with other solution we cannot define the scope. For example if we have a complicate method which does a lot of computation creating and get values from the objects to perform some task if we declared that me thod synchronized then we cannot let other threads do anything that will not have any side effects. 
+6.2 The Lock solutions can be apllied to the broadest range of problem because we can define the scope of what is locked when the operation is ocurring with other solution we cannot define the scope. For example if we have a complicate method which does a lot of computation creating and get values from the objects to perform some task if we declared that me thod synchronized then we cannot let other threads do anything that will not have any side effects. 
 
 ## 7. Using Many Threads (optional)
 
